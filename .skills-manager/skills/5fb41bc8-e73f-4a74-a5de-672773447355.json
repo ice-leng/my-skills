@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5fb41bc8-e73f-4a74-a5de-672773447355",
+  "path": "ckm_banner-design",
+  "path_key": "ckm_banner-design",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "766cd7f0-3e8b-4a83-bf61-9df293efd9dd",
+  "path": "ckm_design",
+  "path_key": "ckm_design",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
