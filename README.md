@@ -1,2 +1,0 @@
-# my-skills
-my-skills

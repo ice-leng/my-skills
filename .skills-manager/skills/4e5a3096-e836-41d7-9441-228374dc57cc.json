@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4e5a3096-e836-41d7-9441-228374dc57cc",
+  "path": "comet",
+  "path_key": "comet",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "rpamis/comet/comet",
+    "subpath": "eval/local/skills/benchmarks/040-beta/comet",
+    "branch": null
+  }
+}
