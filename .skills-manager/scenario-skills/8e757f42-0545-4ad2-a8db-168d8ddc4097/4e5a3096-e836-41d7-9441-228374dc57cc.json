@@ -8,6 +8,7 @@
     "codex": true,
     "openclaw": true,
     "opencode": true,
-    "trae": true
+    "trae": true,
+    "trae_cn": true
   }
 }
