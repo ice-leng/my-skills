@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cd9511fe-7574-4bd1-8cec-5ba1ac4a0810",
+  "path": "find-skills",
+  "path_key": "find-skills",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "vercel-labs/skills/find-skills",
+    "subpath": "skills/find-skills",
+    "branch": null
+  }
+}
