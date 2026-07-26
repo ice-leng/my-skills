@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "af0e6ab6-5e9e-4ec8-89ca-0c01e480c20d",
+  "path": "subagent-driven-development",
+  "path_key": "subagent-driven-development",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "obra/superpowers/subagent-driven-development",
+    "subpath": "skills/subagent-driven-development",
+    "branch": null
+  }
+}
