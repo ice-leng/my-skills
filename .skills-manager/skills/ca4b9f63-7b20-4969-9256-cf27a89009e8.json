@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ca4b9f63-7b20-4969-9256-cf27a89009e8",
+  "path": "openspec-continue-change",
+  "path_key": "openspec-continue-change",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/Fission-AI/OpenSpec",
+    "subpath": "skills/openspec-continue-change",
+    "branch": null
+  }
+}
