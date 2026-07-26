@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ecce8842-f90b-4231-979a-d4326c6f9ef9",
+  "path": "comet-archive",
+  "path_key": "comet-archive",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/rpamis/comet",
+    "subpath": "assets/skills/comet-archive",
+    "branch": null
+  }
+}

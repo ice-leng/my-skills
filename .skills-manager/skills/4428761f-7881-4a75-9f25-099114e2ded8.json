@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4428761f-7881-4a75-9f25-099114e2ded8",
+  "path": "comet-hotfix",
+  "path_key": "comet-hotfix",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/rpamis/comet",
+    "subpath": "assets/skills/comet-hotfix",
+    "branch": null
+  }
+}

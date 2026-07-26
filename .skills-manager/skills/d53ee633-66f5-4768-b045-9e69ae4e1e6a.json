@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d53ee633-66f5-4768-b045-9e69ae4e1e6a",
+  "path": "comet-design",
+  "path_key": "comet-design",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/rpamis/comet",
+    "subpath": "assets/skills/comet-design",
+    "branch": null
+  }
+}

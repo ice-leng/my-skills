@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1f4573f0-3ae1-48e6-ad5a-2200da895190",
+  "path": "receiving-code-review",
+  "path_key": "receiving-code-review",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/rpamis/comet",
+    "subpath": "eval/local/skills/benchmarks/dependency/superpowers/receiving-code-review",
+    "branch": null
+  }
+}

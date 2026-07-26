@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ed910153-6575-4ccd-aa32-9b8af8a0bc63",
+  "path": "comet-tweak",
+  "path_key": "comet-tweak",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/rpamis/comet",
+    "subpath": "assets/skills/comet-tweak",
+    "branch": null
+  }
+}

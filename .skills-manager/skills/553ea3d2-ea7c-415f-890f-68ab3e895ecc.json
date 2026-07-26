@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "553ea3d2-ea7c-415f-890f-68ab3e895ecc",
+  "path": "comet-build",
+  "path_key": "comet-build",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/rpamis/comet",
+    "subpath": "assets/skills/comet-build",
+    "branch": null
+  }
+}

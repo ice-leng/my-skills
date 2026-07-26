@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f2712fdc-13e8-47d6-b7cd-a3212ac430ba",
+  "path": "comet-verify",
+  "path_key": "comet-verify",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/rpamis/comet",
+    "subpath": "assets/skills/comet-verify",
+    "branch": null
+  }
+}
