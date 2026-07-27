@@ -4,8 +4,10 @@
   "skill_id": "16bac292-cdad-462a-9a71-5f38338ae6ba",
   "sort_order": 30,
   "tools": {
+    "antigravity": true,
     "claude_code": true,
     "codex": true,
+    "gemini_cli": true,
     "openclaw": true,
     "opencode": true,
     "trae": true
